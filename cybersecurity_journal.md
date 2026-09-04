@@ -4,3 +4,4 @@ Day 3: Google Dorking for Recon
 Day 4: DNS Enumeration Techniques
 Day 5: Subdomain Takeover Scenarios
 Day 6: Port Scanning & Nmap Engine
+Day 7: Banner Grabbing Techniques
