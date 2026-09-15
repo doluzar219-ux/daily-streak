@@ -7,3 +7,4 @@ Day 6: Port Scanning & Nmap Engine
 Day 7: Banner Grabbing Techniques
 Day 8: Network Topology Mapping
 Day 9: Shodan & Censys Search Rules
+Day 10: Email Header Analysis & Spoofing
