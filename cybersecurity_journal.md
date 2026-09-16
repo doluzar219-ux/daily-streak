@@ -9,3 +9,4 @@ Day 8: Network Topology Mapping
 Day 9: Shodan & Censys Search Rules
 Day 10: Email Header Analysis & Spoofing
 Day 11: Passive Recon via Certificate Transparency
+Day 11: Passive Recon via Certificate Transparency
