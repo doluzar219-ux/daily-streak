@@ -11,3 +11,4 @@ Day 10: Email Header Analysis & Spoofing
 Day 11: Passive Recon via Certificate Transparency
 Day 11: Passive Recon via Certificate Transparency
 Day 12: ASN & IP Block Enumeration
+Day 13: Social Media Intelligence (SOCMINT)
