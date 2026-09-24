@@ -12,3 +12,4 @@ Day 11: Passive Recon via Certificate Transparency
 Day 11: Passive Recon via Certificate Transparency
 Day 12: ASN & IP Block Enumeration
 Day 13: Social Media Intelligence (SOCMINT)
+Day 14: Metadata Extraction Techniques
