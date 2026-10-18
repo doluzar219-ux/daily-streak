@@ -14,3 +14,4 @@ Day 12: ASN & IP Block Enumeration
 Day 13: Social Media Intelligence (SOCMINT)
 Day 14: Metadata Extraction Techniques
 Day 15: Wayback Machine Recon Automation
+Day 16: Git Repository Secrets Leakage
