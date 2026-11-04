@@ -17,3 +17,4 @@ Day 15: Wayback Machine Recon Automation
 Day 16: Git Repository Secrets Leakage
 Day 17: WHOIS Privacy Bypass Methods
 Day 18: S3 Bucket Discovery Techniques
+Day 19: Content Delivery Network (CDN) Bypass
