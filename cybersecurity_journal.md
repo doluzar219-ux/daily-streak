@@ -19,3 +19,4 @@ Day 17: WHOIS Privacy Bypass Methods
 Day 18: S3 Bucket Discovery Techniques
 Day 19: Content Delivery Network (CDN) Bypass
 Day 20: Threat Intelligence Feeds Analysis
+Day 21: Favicon Hash Analysis for Asset ID
