@@ -21,3 +21,4 @@ Day 19: Content Delivery Network (CDN) Bypass
 Day 20: Threat Intelligence Feeds Analysis
 Day 21: Favicon Hash Analysis for Asset ID
 Day 22: Tech Stack Fingerprinting Mechanics
+Day 22: Tech Stack Fingerprinting Mechanics
